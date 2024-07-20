@@ -1,13 +1,15 @@
-# GAME SPRITES
+# IMAGES
 
-Game assets include:-
-_ Enemy & Player Entities
-_ Environment Tile Sets \* Gun & Projectile
+This directory contains all image assets used in the game.
 
-Game sprites will be rendered on a level's screen,
-so this can be literally anything.
+## CONTENTS
 
-The caveat is that the sprites should be in PNG format.
-
-Organise your sprites in an order which gives you a
-convenient experience.
+| # | Contents         |
+|---|------------------|
+| 1 | Clouds           |
+| 2 | Entities         |
+| 3 | Particles        |
+| 4 | Tiles            |
+| 5 | Background.png   |
+| 6 | Gun              |
+| 7 | Projectile       |
